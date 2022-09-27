@@ -1,7 +1,7 @@
 ### Hello! i'm Renata Melo.
 - 🔭 I’m currently working on DevOps.
 - 🌱 I’m learning Terraform, Ansible, Docker and Kubernetes.
-- 💬 Contact: https://www.linkedin.com/in/renata-souza-melo-44a548101
+- 💬 Ask me about anything, even if i don't know, i'll try to help you!!!
 
 ##
 <br />
